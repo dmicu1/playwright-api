@@ -1,0 +1,22 @@
+{
+  "name": "ubicacionplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.4"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.5.0",
+    "winston": "^3.19.0"
+  }
+}
