@@ -10,3 +10,5 @@
 2026-07-05 19:08:38:838 [31merror[39m: [31mthis is an error[39m
 2026-07-05 19:08:38:838 [32minfo[39m: [32mPet was created successfuly[39m
 2026-07-05 19:08:39:839 [32minfo[39m: [32mAfter all => deleting database[39m
+2026-07-11 11:56:52:5652 [32minfo[39m: [32mBefore all test =>creating database[39m
+2026-07-11 11:56:55:5655 [32minfo[39m: [32mAfter all => deleting database[39m
